@@ -1,5 +1,10 @@
 # cycraft
-Content für das CyCraft-Projekt
+
+> Content für das CyCraft-Projekt
+
+> Hier findest du die aktuellsten Dateien, die du für das Gameplay auf CyCraft benötigst.
+
+
 
 --------------------------------
    _____       _____            __ _      _      
@@ -12,4 +17,4 @@ Content für das CyCraft-Projekt
         |___/                                    
 ---------------------------------
 
-Hier findest du die aktuellsten Dateien, die du für das Gameplay auf CyCraft benötigst.
+
